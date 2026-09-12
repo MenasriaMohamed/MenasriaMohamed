@@ -1,6 +1,4 @@
 <div align="center">
-<br />
-<img src="./assets/profil-banner.png" alt="Mohamed Amine MENASRIA — Computer Vision Engineer & Frontend Architect" width="100%" />
 
 <br />
 
@@ -54,8 +52,6 @@ Currently Working with Basikon, a French fintech company, building enterprise pl
   <img src="./assets/icons/typescript.png" alt="TypeScript" width="48" />
   &nbsp;&nbsp;
    <img src="./assets/icons/laravel.jpeg" alt="Laravel" width="48" />
-   &nbsp;&nbsp;
-  <img src="./assets/icons/net-core.png" alt=".NET Core" width="48" />
   &nbsp;&nbsp;
   <img src="./assets/icons/nodejs.png" alt="NodeJs" width="48" />
   &nbsp;&nbsp;
@@ -70,7 +66,7 @@ Currently Working with Basikon, a French fintech company, building enterprise pl
 
 <p align="center">
   <sub>
-    JavaScript • React • TypeScript • Flutter • .NET Core • Google Maps • NodeJs • Laravel • MongoDB • Vue.Js •
+    JavaScript • React • TypeScript • Flutter • Google Maps • NodeJs • Laravel • MongoDB • Vue.Js •
   </sub>
 </p>
 
@@ -80,10 +76,6 @@ Currently Working with Basikon, a French fintech company, building enterprise pl
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>Computer Vision</h3>
-      <p>Image processing, computer vision algorithms, visual data analysis, feature extraction, and intelligent image-based solutions.</p>
-    </td>
     <td width="50%">
       <h3>Frontend Architecture</h3>
       <p>Reusable UI libraries, scalable NextJs/React Or VueJs applications, design systems, and enterprise frontend patterns.</p>
@@ -108,7 +100,7 @@ Currently Working with Basikon, a French fintech company, building enterprise pl
 | Area | Verified impact |
 |---|---|
 | Experience | **6+ years** in software engineering |
-| Delivery | **9 enterprise projects** delivered |
+| Delivery | **7 enterprise projects** delivered |
 | International exposure | Professional experience with a French fintech company|
 | Computer Vision | Master's degree and professional background in Computer Vision & Image Processing |
 
@@ -119,7 +111,6 @@ Currently Working with Basikon, a French fintech company, building enterprise pl
 | Capability | Tools & technologies |
 |---|---|
 | **Frontend Architecture** | React, Vue, TypeScript, Flutter, Dart, RxJS, SCSS, reusable libraries |
-| **Computer Vision** | Computer vision, image processing, feature extraction, visual data analysis, deep learning |
 | **Backend Integration** | Laravel , NodeJs, REST APIs, microservices architecture, secure API integration |
 | **Data & Visualization** | ECharts, Leaflet, Chart.js, geospatial dashboards, operational maps, Power BI integrations |
 | **Product Engineering** | enterprise UI, responsive systems, accessibility, maintainability, production delivery |
