@@ -4,7 +4,7 @@
 
 # Mohamed AMINE MENASRIA
 
-### Computer Vision Engineer & Frontend Architect
+### Software Engineer
 
 Building enterprise full-stack systems, reusable frontend architecture, and production-grade applications.
 
