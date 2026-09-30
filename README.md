@@ -112,7 +112,7 @@ Currently Working with Basikon, a French fintech company, building enterprise pl
 |---|---|
 | **Frontend Architecture** | React, Vue, TypeScript, Flutter, Dart, RxJS, SCSS, reusable libraries |
 | **Backend Integration** | Laravel , NodeJs, REST APIs, microservices architecture, secure API integration |
-| **Data & Visualization** | ECharts, Leaflet, Chart.js, geospatial dashboards, operational maps, Power BI integrations |
+| **Data & Visualization** | ECharts, Leaflet, Chart.js, geospatial dashboards, operational maps |
 | **Product Engineering** | enterprise UI, responsive systems, accessibility, maintainability, production delivery |
 
 ---
